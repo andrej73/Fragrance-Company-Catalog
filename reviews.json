@@ -1,0 +1,82 @@
+{
+    "reviews": [
+      {
+        "productId": 1,
+        "reviewId": 101,
+        "rating": 4,
+        "comment": "This perfume has a lovely floral scent. I highly recommend it!"
+      },
+      {
+        "productId": 1,
+        "reviewId": 102,
+        "rating": 5,
+        "comment": "One of the best floral fragrances I've ever used."
+      },
+      {
+        "productId": 2,
+        "reviewId": 201,
+        "rating": 4,
+        "comment": "The citrus perfume is quite refreshing."
+      },
+      {
+        "productId": 2,
+        "reviewId": 202,
+        "rating": 4,
+        "comment": "Nice and zesty!"
+      },
+      {
+        "productId": 2,
+        "reviewId": 203,
+        "rating": 5,
+        "comment": "When life doesn't give you lemons this is the second best thing!"
+      },
+      {
+        "productId": 3,
+        "reviewId": 301,
+        "rating": 3,
+        "comment": "The musk fragrance is simply enchanting."
+      },
+      {
+        "productId": 4,
+        "reviewId": 401,
+        "rating": 4,
+        "comment": "Ocean Breeze reminds me of the beach."
+      },
+      {
+        "productId": 4,
+        "reviewId": 402,
+        "rating": 1,
+        "comment": "Colognes shouldn't be fresh, this is the worst perfume I've ever had!"
+      },
+      {
+        "productId": 5,
+        "reviewId": 501,
+        "rating": 5,
+        "comment": "The vanilla perfume is sweet and warm."
+      },
+      {
+        "productId": 6,
+        "reviewId": 601,
+        "rating": 3,
+        "comment": "The sandalwood scent is calming."
+      },
+      {
+        "productId": 7,
+        "reviewId": 701,
+        "rating": 4,
+        "comment": "The citrus zest perfume is energizing."
+      },
+      {
+        "productId": 8,
+        "reviewId": 801,
+        "rating": 5,
+        "comment": "I adore the romantic rose fragrance!"
+      },
+      {
+        "productId": 9,
+        "reviewId": 901,
+        "rating": 4,
+        "comment": "Spicy cinnamon is perfect for autumn."
+      }
+    ]
+  }

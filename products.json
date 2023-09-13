@@ -1,0 +1,167 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "Fancy Fragrance 1",
+        "image": "https://img.freepik.com/free-photo/fresh-scent-purple-flower-glass-bottle-generative-ai_188544-9642.jpg?t=st=1694591330~exp=1694594930~hmac=076763b3926527c0e58ef4bae4ba23da75a7131673e809cdf485a5533397a1a7&w=826",
+        "description": "A captivating fragrance with floral notes. Embodying the essence of luxury and refinement, designed for those who appreciate the finer things in life. Whether you're attending a glamorous gala, a romantic rendezvous, or simply savoring everyday moments, this perfume elevates your presence, making a statement of elegance and style.",
+        "category": ["Floral"],
+        "price": 49.99,
+        "review": "4.5"
+      },
+      {
+        "id": 2,
+        "productName": "Fresh Citrus Perfume",
+        "image": "https://img.freepik.com/free-photo/dark-glass-bottle-with-single-liquid-drop-generative-ai_188544-9634.jpg?w=2000",
+        "description": "A zesty and invigorating citrus fragrance.",
+        "category": ["Fruity", "Fresh"],
+        "price": 39.99,
+        "review": "3.8"
+      },
+      {
+        "id": 3,
+        "productName": "Mystical Musk Eau de Parfum",
+        "image": "https://img.freepik.com/free-photo/front-view-yellow-fragrance-bottle-with-golden-cap-white-wall_140725-11697.jpg",
+        "description": "An enchanting and sensual musk fragrance.",
+        "category": ["Musk", "Woody"],
+        "price": 59.99,
+        "review": "4.7"
+      },
+      {
+        "id": 4,
+        "productName": "Ocean Breeze Cologne",
+        "image": "https://img.freepik.com/free-photo/bottle-perfume-that-says-eau-de-toilette-side_1340-38010.jpg?w=2000",
+        "description": "A refreshing fragrance reminiscent of a seaside breeze.",
+        "category": ["Fresh"],
+        "price": 34.99,
+        "review": "4.2"
+      },
+      {
+        "id": 5,
+        "productName": "Exotic Vanilla Perfume",
+        "image": "https://img.freepik.com/free-photo/bottle-perfume-with-word-perfume-it_1340-37484.jpg?t=st=1694591052~exp=1694594652~hmac=582fcce9d3b4bd1f64953e9d29a479965a79ed94ec61b79f5fc454083f1ae34c&w=826",
+        "description": "A sweet and warm vanilla fragrance.",
+        "category": ["Sweet", "Woody"],
+        "price": 45.99,
+        "review": "4.8"
+      },
+      {
+        "id": 6,
+        "productName": "Sandalwood Sensation",
+        "image": "https://img.freepik.com/premium-photo/perfume-orange-glass-bottle-isolated-white-background_250899-498.jpg?w=740",
+        "description": "A woody and calming sandalwood fragrance.",
+        "category": ["Woody"],
+        "price": 55.99,
+        "review": "3.5"
+      },
+      {
+        "id": 7,
+        "productName": "Citrus Zest Perfume",
+        "image": "https://img.freepik.com/free-photo/front-view-light-bottle-with-golden-cap-isolated-white-floor_140725-11640.jpg?w=1060&t=st=1694592160~exp=1694592760~hmac=4720911d4f56a88f035cc55104699c63e87a00ddb2bd33e6168f97ab38aea267",
+        "description": "An energizing citrus fragrance with a zesty twist.",
+        "category": ["Fruity"],
+        "price": 42.99,
+        "review": "4.6"
+      },
+      {
+        "id": 8,
+        "productName": "Romantic Rose Eau de Parfum",
+        "image": "https://img.freepik.com/premium-psd/perfume-bottle-pink-smoke-mockup_23-2148961302.jpg?w=740",
+        "description": "A romantic and delicate rose fragrance.",
+        "category": ["Floral", "Sweet"],
+        "price": 47.99,
+        "review": "4.9"
+      },
+      {
+        "id": 9,
+        "productName": "Spicy Cinnamon Cologne",
+        "image": "https://img.freepik.com/premium-photo/mockup-empty-perfume-bottle_826454-417.jpg?w=826",
+        "description": "A warm and spicy cinnamon fragrance.",
+        "category": ["Spicy", "Musk"],
+        "price": 36.99,
+        "review": "4.1"
+      },
+      {
+        "id": 10,
+        "productName": "Fancy Fragrance 1",
+        "image": "https://img.freepik.com/free-photo/fresh-scent-purple-flower-glass-bottle-generative-ai_188544-9642.jpg?t=st=1694591330~exp=1694594930~hmac=076763b3926527c0e58ef4bae4ba23da75a7131673e809cdf485a5533397a1a7&w=826",
+        "description": "A captivating fragrance with floral notes. Embodying the essence of luxury and refinement, designed for those who appreciate the finer things in life. Whether you're attending a glamorous gala, a romantic rendezvous, or simply savoring everyday moments, this perfume elevates your presence, making a statement of elegance and style.",
+        "category": ["Floral"],
+        "price": 49.99,
+        "review": "4.5"
+      },
+      {
+        "id": 11,
+        "productName": "Fresh Citrus Perfume",
+        "image": "https://img.freepik.com/free-photo/dark-glass-bottle-with-single-liquid-drop-generative-ai_188544-9634.jpg?w=2000",
+        "description": "A zesty and invigorating citrus fragrance.",
+        "category": ["Fruity", "Fresh"],
+        "price": 39.99,
+        "review": "3.8"
+      },
+      {
+        "id": 12,
+        "productName": "Mystical Musk Eau de Parfum",
+        "image": "https://img.freepik.com/free-photo/front-view-yellow-fragrance-bottle-with-golden-cap-white-wall_140725-11697.jpg",
+        "description": "An enchanting and sensual musk fragrance.",
+        "category": ["Musk", "Woody"],
+        "price": 59.99,
+        "review": "4.7"
+      },
+      {
+        "id": 13,
+        "productName": "Ocean Breeze Cologne",
+        "image": "https://img.freepik.com/free-photo/bottle-perfume-that-says-eau-de-toilette-side_1340-38010.jpg?w=2000",
+        "description": "A refreshing fragrance reminiscent of a seaside breeze.",
+        "category": ["Fresh"],
+        "price": 34.99,
+        "review": "4.2"
+      },
+      {
+        "id": 14,
+        "productName": "Exotic Vanilla Perfume",
+        "image": "https://img.freepik.com/free-photo/bottle-perfume-with-word-perfume-it_1340-37484.jpg?t=st=1694591052~exp=1694594652~hmac=582fcce9d3b4bd1f64953e9d29a479965a79ed94ec61b79f5fc454083f1ae34c&w=826",
+        "description": "A sweet and warm vanilla fragrance.",
+        "category": ["Sweet", "Woody"],
+        "price": 45.99,
+        "review": "4.8"
+      },
+      {
+        "id": 15,
+        "productName": "Sandalwood Sensation",
+        "image": "https://img.freepik.com/premium-photo/perfume-orange-glass-bottle-isolated-white-background_250899-498.jpg?w=740",
+        "description": "A woody and calming sandalwood fragrance.",
+        "category": ["Woody"],
+        "price": 55.99,
+        "review": "3.5"
+      },
+      {
+        "id": 16,
+        "productName": "Citrus Zest Perfume",
+        "image": "https://img.freepik.com/free-photo/front-view-light-bottle-with-golden-cap-isolated-white-floor_140725-11640.jpg?w=1060&t=st=1694592160~exp=1694592760~hmac=4720911d4f56a88f035cc55104699c63e87a00ddb2bd33e6168f97ab38aea267",
+        "description": "An energizing citrus fragrance with a zesty twist.",
+        "category": ["Fruity"],
+        "price": 42.99,
+        "review": "4.6"
+      },
+      {
+        "id": 17,
+        "productName": "Romantic Rose Eau de Parfum",
+        "image": "https://img.freepik.com/premium-psd/perfume-bottle-pink-smoke-mockup_23-2148961302.jpg?w=740",
+        "description": "A romantic and delicate rose fragrance.",
+        "category": ["Floral", "Sweet"],
+        "price": 47.99,
+        "review": "4.9"
+      },
+      {
+        "id": 18,
+        "productName": "Spicy Cinnamon Cologne",
+        "image": "https://img.freepik.com/premium-photo/mockup-empty-perfume-bottle_826454-417.jpg?w=826",
+        "description": "A warm and spicy cinnamon fragrance.",
+        "category": ["Spicy", "Musk"],
+        "price": 36.99,
+        "review": "4.1"
+      }
+    ]
+  }
+  
